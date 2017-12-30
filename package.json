@@ -1,6 +1,6 @@
 {
   "name": "formatted-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add formatted to any node project",
   "license": "MIT",
   "repository": "herber/formatted-cli",
