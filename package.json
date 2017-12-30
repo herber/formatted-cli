@@ -1,0 +1,38 @@
+{
+  "name": "formatted-cli",
+  "version": "1.0.0",
+  "description": "Add formatted to any node project",
+  "license": "MIT",
+  "repository": "herber/formatted-cli",
+  "author": {
+    "name": "Tobias Herber",
+    "email": "tobihbr@gmail.com",
+    "url": "tobihrbr.com"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "formatted"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "formatted",
+    "init",
+    "setup"
+  ],
+  "dependencies": {
+    "mri": "^1.1.0",
+    "untag": "^1.0.1"
+  },
+  "devDependencies": {
+    "formatted": "^1.0.0"
+  },
+  "formatted": {}
+}
